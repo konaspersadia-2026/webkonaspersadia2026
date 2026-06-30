@@ -1,6 +1,0 @@
-{
-  "name": "Konas Persadia 2026",
-  "description": "Website resmi dan portal pendaftaran online KONAS PERSADIA, KONKER PEDI, dan KONKER PERKENI 2026.",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
